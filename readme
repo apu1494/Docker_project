@@ -7,4 +7,5 @@ here I have used docker container as because it is very fast, if anything will b
 
 
 
-Using this docker compose file you can deploy the full project withing in few seconds. it will create the full project only if you will run the file..
+Using this docker compose file you can deploy the full project withing in few seconds. it will create the full project only if you will run the file.. it will create the mysql db and connect it with the wrodpress container and launch wordpress within few second
+It will also mount the volume. everything with this 1 file which is the main reason of usng docker and loving it.
