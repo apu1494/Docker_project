@@ -3,3 +3,8 @@ For this I have used mysql data base and project is on wordpress.
 file system has been mounted so if the docker container will be colapsed some how data will be safe.
 application has been deployed on docker container.
 here I have used docker container as because it is very fast, if anything will be wrong in my blog as any data corruption or server down within few seconds I can deploy a new container and the issue will be fixed. what is most important for clients.
+
+
+
+
+Using this docker compose file you can deploy the full project withing in few seconds. it will create the full project only if you will run the file..
